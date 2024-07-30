@@ -1,4 +1,4 @@
-Olá , meu nome é _Michel_
+Olá , meu nome é _Michel_ 🤙
 ***
 Estou interessado em aprender Phyton. <br>
 Atualmente trabalho com _Fibra Óptica_, em busca do conheimento necessario para entrar na Área
